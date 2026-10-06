@@ -3,7 +3,7 @@
 
 
 > 视频讲解：
-> [video](https://v-blog.csdnimg.cn/asset/41f7b7fda50cfc770b19bf97ccbaf049/play_video/f5ff017de77a44e53ced64d520905493.m3u8)(title-JS网站太难爬？Browser API处理动态网站全流程实战)]
+> [video(https://v-blog.csdnimg.cn/asset/41f7b7fda50cfc770b19bf97ccbaf049/play_video/f5ff017de77a44e53ced64d520905493.m3u8)](title-JS网站太难爬？Browser API处理动态网站全流程实战)]
 
 # 前言
 
